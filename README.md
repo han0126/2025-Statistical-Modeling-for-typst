@@ -43,7 +43,7 @@
 )
 ```
 
-![](D:\edge下载\2025-Statistical-Modeling-for-typst-main\README\表格.png)
+![](.\README\表格.png)
 
 ## 图片
 
@@ -53,7 +53,7 @@
 )
 ```
 
-<img src="D:\edge下载\2025-Statistical-Modeling-for-typst-main\README\图片.png" style="zoom: 67%;" />
+<img src=".\README\图片.png" style="zoom: 67%;" />
 
 ## 数学公式
 
@@ -73,7 +73,7 @@
 )
 ```
 
-![](D:\edge下载\2025-Statistical-Modeling-for-typst-main\README\公式.png)
+![](.\README\公式.png)
 
 ## 代码块
 
@@ -91,9 +91,11 @@
       [内容1],[内容2],[内容3],
       table.hline(stroke: 1.5pt)
     ),caption: "表标题"
- ```
   ),caption: "代码说明"
 )
+```
+<img src=".\README\代码.png" style="zoom:67%;" />
+
 ```
 <img src="D:\edge下载\2025-Statistical-Modeling-for-typst-main\README\代码.png" style="zoom:80%;" />
 
